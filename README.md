@@ -1,3 +1,16 @@
+# CSS Modules App
+
+## Learning Project
+
+**React: Building Styles with CSS Modules by Emmanuel Henri:** https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678 \
+**Projects List:** https://github.com/stijn-veren/projects-list
+
+## Resources
+
+...
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
