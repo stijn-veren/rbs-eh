@@ -7,7 +7,13 @@
 
 ## Resources
 
-Animate.css: https://animate.style
+Animate.css: 
+- https://animate.style
+- https://github.com/animate-css/animate.css
+
+Classnames:
+- https://www.npmjs.com/package/classnames
+- https://github.com/JedWatson/classnames
 
 ---
 
