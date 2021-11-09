@@ -1,10 +1,13 @@
 import React from 'react'
 
+// CSS
+import styles from './Rocket.module.css'
+
 export default class App extends React.Component {
   render() {
     return (
       <div>
-        <h1>Rocket</h1>
+        <img src="/shuttle.png" alt="shuttle" className={styles.img} />
       </div>
     )
   }
