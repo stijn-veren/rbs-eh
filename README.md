@@ -7,7 +7,7 @@
 
 ## Resources
 
-...
+Animate.css: https://animate.style
 
 ---
 
