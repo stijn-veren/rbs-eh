@@ -1,10 +1,13 @@
 import React from 'react'
 
+// CSS
+import styles from './Smoke.module.css'
+
 export default class App extends React.Component {
   render() {
     return (
-      <div>
-        <h1>Smoke</h1>
+      <div className={styles.smoke}>
+        <video className={styles.video} autoPlay loop src="/smoke.mov" />
       </div>
     )
   }
