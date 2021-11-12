@@ -1,5 +1,8 @@
 # RBS-EH
 
+> ### This is not an official repository for the tutorial code.
+> This repository was created by me for educational purposes during the study of the course and may contain differences from the original code.
+
 **Name:** React: Building Styles with CSS Modules
 
 **Author:** Emmanuel Henri
